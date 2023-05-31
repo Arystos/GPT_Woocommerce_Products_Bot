@@ -1,0 +1,7 @@
+{
+    "openai_api_key": "your-openai-api",
+    "serpapi_api_key": "your-serpapi-api",
+    "csv_file_path": "path/to/your/file.csv",
+    "num_images_to_scrape": 1,
+    "image_scraping_enabled": true
+}
